@@ -19,7 +19,7 @@ import { FormsModule } from '@angular/forms';
     FooterComponent,
     NaoEncontradaComponent,
     BarraPesquisaComponent,
- 
+
   ],
   imports: [
     BrowserModule,
